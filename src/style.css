@@ -1,0 +1,52 @@
+.grey {
+    background-color: #c6c7c8;
+}
+
+.page {
+    width: 135px;
+    border-radius: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    border: 1px solid #dadce0;
+
+}
+
+.alpha {
+    width: 50%;
+    border-radius: 0 15px 15px 0;
+    text-align: center;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.num {
+    text-align: center;
+    width: 50%;
+    border-radius: 15px 0 0 15px;
+    font-weight: bold;
+    padding: 2px;
+}
+.num1{
+    color: #0b5ed7;
+   background-color: #d2e3fc;
+}
+.gx-2{
+    display:none;
+}
+.calc-displa{
+    border: 1px solid #d2e3fc;
+    border-radius: 10px;
+    height: 70px;
+}
+.calc-display{
+    font-size: 30px;
+}
+.calc-display1{
+    font-size: 15px;
+}
+.grey1{
+    color: grey;
+}
+
